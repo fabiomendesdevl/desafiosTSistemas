@@ -1,0 +1,4 @@
+Descobrindo qual interruptor controla qual lâmpada:
+
+Se você puder tocar nas lâmpadas durante a primeira ida, pode identificar qual interruptor controla qual lâmpada com apenas uma ida.
+Se você tiver um multímetro, pode usá-lo para medir a voltagem nos interruptores para determinar qual está conectado a qual lâmpada.
